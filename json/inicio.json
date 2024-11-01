@@ -1,0 +1,11 @@
+{
+  "banners": [
+    {
+      "id": 1,
+      "title": "Pelicula de Ejemplo",
+      "description": "Descripción de la película",
+      "url_image": "https://ejemplo.com/imagen.jpg",
+      "url_video": "https://ejemplo.com/video.mp4"
+    }
+  ]
+}
